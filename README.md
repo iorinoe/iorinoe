@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm iorinoe, sometimes known as Kagami.
 
-<!--
-**iorinoe/iorinoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Network Engineer by trade, but I like to dabble here and there.
+I like understanding how an entire system fits together — from hardware
+and firmware to networking, services, interfaces, and the tooling around them.
 
-Here are some ideas to get you started:
+When it comes to coding, I'm a pragmatist: the programs I write and build
+are made to be useful, not fancy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Recent rabbit holes include:
+- 🧰 Developer tools
+- 🎬 Video encoders
+- 📡 Streaming systems
+- 🎤 VTuber livestreaming
+- 🎰 Gacha games
